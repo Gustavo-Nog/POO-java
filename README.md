@@ -27,6 +27,9 @@ O projeto cobre os seguintes conceitos da Programação Orientada a Objetos:
 - **Abstração**: Simplificação e modelagem de sistemas complexos com base nos objetos do mundo real.
 - **Relacionamentos entre classes**: Definição de associações e dependências entre diferentes classes.
 
+  ## Tecnologias Utilizadas 🛠
+  - Java
+
 ## Como Usar
 
 Para compilar e executar os arquivos Java, siga os passos abaixo:
@@ -52,6 +55,5 @@ Para compilar e executar os arquivos Java, siga os passos abaixo:
 ## Licença
 
 Este projeto é licenciado sob a Licença MIT - veja o arquivo **LICENSE** para mais detalhes.
-
-    ```bash
-    Esse código pode ser copiado e colado diretamente no arquivo `README.md` do seu repositório no GitHub. Caso queira alterar algo, fique à vontade para editar conforme suas necessidades.
+```bash
+Esse código pode ser copiado e colado diretamente no arquivo `README.md` do seu repositório no GitHub. Caso queira alterar algo, fique à vontade para editar conforme suas necessidades.
